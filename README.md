@@ -1,5 +1,7 @@
 
-Letsshop A Multi tenant online store:An online store website for all sorts of items of regular life built with separate Admin site & User Site.
+Letsshop A Multi tenant online store:
+
+An online store website for all sorts of items of regular life built with separate Admin site & User Site.
 
 Technology Used:
 
