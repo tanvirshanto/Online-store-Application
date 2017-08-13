@@ -1,7 +1,7 @@
 
 Letsshop A Multi tenant online store:
 
-An online store website for all sorts of items of regular life built with separate Admin site & User Site.
+An online store website for all sorts of items of regular life built with separate Admin site & User Site.User can register,can check their order history,their wishlist so that they can order later.It has a carting system user can store their items while browsing and finally place order.They can buy online or they can ask for home delivery.In administrative panel Admin can add the products,generate the reports like how much a user bought in last month or this month till now,how many hits in their website is currently has and they can approve the order of the user that they requested. 
 
 Technology Used:
 
